@@ -1,0 +1,15 @@
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\bin\Debug\net5.0\Exercicio10.exe
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\bin\Debug\net5.0\Exercicio10.deps.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\bin\Debug\net5.0\Exercicio10.runtimeconfig.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\bin\Debug\net5.0\Exercicio10.runtimeconfig.dev.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\bin\Debug\net5.0\Exercicio10.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\bin\Debug\net5.0\ref\Exercicio10.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\bin\Debug\net5.0\Exercicio10.pdb
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\Exercicio10.AssemblyInfoInputs.cache
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\Exercicio10.AssemblyInfo.cs
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\Exercicio10.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\ref\Exercicio10.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\Exercicio10.pdb
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Lista2\Exercicio10\obj\Debug\net5.0\Exercicio10.genruntimeconfig.cache

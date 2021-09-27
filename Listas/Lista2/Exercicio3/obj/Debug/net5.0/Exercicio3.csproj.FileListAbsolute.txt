@@ -1,0 +1,15 @@
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\bin\Debug\net5.0\Exercicio3.exe
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\bin\Debug\net5.0\Exercicio3.deps.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\bin\Debug\net5.0\Exercicio3.runtimeconfig.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\bin\Debug\net5.0\Exercicio3.runtimeconfig.dev.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\bin\Debug\net5.0\Exercicio3.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\bin\Debug\net5.0\ref\Exercicio3.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\bin\Debug\net5.0\Exercicio3.pdb
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\Exercicio3.AssemblyInfo.cs
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\Exercicio3.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\ref\Exercicio3.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\Exercicio3.pdb
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Listas\Exercicio3\obj\Debug\net5.0\Exercicio3.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.exe
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.deps.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.dev.json
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\ref\Heranca.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.pdb
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfo.cs
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\ref\Heranca.dll
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.pdb
+C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.genruntimeconfig.cache
+C:\Projetos\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.exe
+C:\Projetos\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.deps.json
+C:\Projetos\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.json
+C:\Projetos\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.dev.json
+C:\Projetos\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.dll
+C:\Projetos\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\ref\Heranca.dll
+C:\Projetos\LP3\codes\Atividades\Heranca\bin\Debug\net5.0\Heranca.pdb
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.csproj.AssemblyReference.cache
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfoInputs.cache
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfo.cs
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.dll
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\ref\Heranca.dll
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.pdb
+C:\Projetos\LP3\codes\Atividades\Heranca\obj\Debug\net5.0\Heranca.genruntimeconfig.cache
