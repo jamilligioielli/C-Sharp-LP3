@@ -14,3 +14,19 @@ C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Ex
 C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
 C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
 C:\Users\Jamilli\OneDrive\!Documentos\!IFSP\terceiro ano\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache
+C:\Projetos\LP3\codes\Atividades\Exercicio2\bin\Debug\net5.0\Exercicio2.exe
+C:\Projetos\LP3\codes\Atividades\Exercicio2\bin\Debug\net5.0\Exercicio2.deps.json
+C:\Projetos\LP3\codes\Atividades\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.json
+C:\Projetos\LP3\codes\Atividades\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.dev.json
+C:\Projetos\LP3\codes\Atividades\Exercicio2\bin\Debug\net5.0\Exercicio2.dll
+C:\Projetos\LP3\codes\Atividades\Exercicio2\bin\Debug\net5.0\ref\Exercicio2.dll
+C:\Projetos\LP3\codes\Atividades\Exercicio2\bin\Debug\net5.0\Exercicio2.pdb
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.dll
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
+C:\Projetos\LP3\codes\Atividades\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache

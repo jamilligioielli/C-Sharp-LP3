@@ -1,0 +1,16 @@
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.exe
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.deps.json
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.runtimeconfig.json
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.runtimeconfig.dev.json
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.dll
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\bin\Debug\net5.0\ref\ClassesAbstratas.dll
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\bin\Debug\net5.0\ClassesAbstratas.pdb
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.AssemblyInfo.cs
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.dll
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ref\ClassesAbstratas.dll
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.pdb
+C:\Projetos\LP3\codes\Atividades\ClassesAbstratas\obj\Debug\net5.0\ClassesAbstratas.genruntimeconfig.cache
