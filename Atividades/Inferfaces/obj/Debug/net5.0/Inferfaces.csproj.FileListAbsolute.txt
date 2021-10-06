@@ -1,0 +1,15 @@
+C:\Projetos\LP3\codes\Atividades\Inferfaces\bin\Debug\net5.0\Inferfaces.exe
+C:\Projetos\LP3\codes\Atividades\Inferfaces\bin\Debug\net5.0\Inferfaces.deps.json
+C:\Projetos\LP3\codes\Atividades\Inferfaces\bin\Debug\net5.0\Inferfaces.runtimeconfig.json
+C:\Projetos\LP3\codes\Atividades\Inferfaces\bin\Debug\net5.0\Inferfaces.runtimeconfig.dev.json
+C:\Projetos\LP3\codes\Atividades\Inferfaces\bin\Debug\net5.0\Inferfaces.dll
+C:\Projetos\LP3\codes\Atividades\Inferfaces\bin\Debug\net5.0\ref\Inferfaces.dll
+C:\Projetos\LP3\codes\Atividades\Inferfaces\bin\Debug\net5.0\Inferfaces.pdb
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\Inferfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\Inferfaces.AssemblyInfoInputs.cache
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\Inferfaces.AssemblyInfo.cs
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\Inferfaces.csproj.CoreCompileInputs.cache
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\Inferfaces.dll
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\ref\Inferfaces.dll
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\Inferfaces.pdb
+C:\Projetos\LP3\codes\Atividades\Inferfaces\obj\Debug\net5.0\Inferfaces.genruntimeconfig.cache
